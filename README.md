@@ -23,9 +23,18 @@ data
 ## Training & Testing
 To train and test MHVTNet, you need to import the project files into the corresponding folders of [MMDetection3D](https://github.com/open-mmlab/mmdetection3d). After that, you can follow the standard MMDetection3D workflow for training and testing.  
 ## Citation 
-```
-The paper describing this project is currently under preparation.  
-Citation information will be provided once the paper is officially published.
+```bibtex
+@article{ZHANG2026130467,
+    title = {Multi-scale hierarchical voxel-aware transformer network for 3D object detection in open-pit mines},
+    journal = {Expert Systems with Applications},
+    volume = {300},
+    pages = {130467},
+    year = {2026},
+    issn = {0957-4174},
+    doi = {https://doi.org/10.1016/j.eswa.2025.130467},
+    url = {https://www.sciencedirect.com/science/article/pii/S0957417425040825},
+    author = {Huazhen Zhang and Zhongyu Xie and Fan Zhang and Yuqian Zhao}
+}
 ```
 ## Acknowledgement
 This project is mainly based on the following codebases. Thanks for their great works!
